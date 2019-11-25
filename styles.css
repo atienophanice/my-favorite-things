@@ -1,0 +1,38 @@
+h1{
+    color:blue;
+    text-align:center;
+}
+h2{
+    color:green;
+    font-style:italic;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+}
+body{
+    background-color: grey;
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+    line-height: 20px;
+}
+#one{
+    display:flex;
+    flex-direction: row;
+}
+#two{
+    display:flex;
+    flex-direction: row;
+}
+#three{
+    display:flex;
+    flex-direction: row;
+}
+#four{
+    display:flex;
+    flex-direction: row;
+}
